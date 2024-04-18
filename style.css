@@ -96,17 +96,17 @@ h1 {
     height: 500px;
 }
 .bg1 {
-  background-image: url(squad1.png);
+  background-image: url(Images/squad1.png);
 }
 .bg2 {
-  background-image: url(2ichigo.png);
+  background-image: url(Images/2ichigo.png);
 }
 .bg3 {
-  background-image: url(3.kam.png);
+  background-image: url(Images/3.kam.png);
 }
 .bg4 {
-  background-image: url(4.bi.png);
+  background-image: url(Images/4.bi.png);
 }
 .bg5 {
-  background-image: url(5.ize.png);
+  background-image: url(Images/5.ize.png);
 }
